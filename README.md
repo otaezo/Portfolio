@@ -9,3 +9,4 @@ This repository contains final projects, lab reports, and notes from my coursewo
 - [Email Analysis](./Email-Ananlysis.pdf)
 - [Log Analysis](./Log-Analysis.pdf)
 - [Pcap Analysis](./pcap-Analysis.pdf)
+- [Threat Intelligence Report](./Threat-Intel-Report.pdf)
