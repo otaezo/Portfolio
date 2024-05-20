@@ -5,4 +5,6 @@ This repository contains final projects, lab reports, and notes from my coursewo
 ## Contents
 
 ### Level Effect Certified Cyber Defense Professional Certification Capstone Project
-- [Compromised Host Analysis](./Compromised-Host-Analysis.pdf) 
+- [Compromised Host Analysis](./Compromised-Host-Analysis.pdf)
+- [Email Analysis](./Email-Ananlysis.pdf)
+- 
