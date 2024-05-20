@@ -14,4 +14,4 @@ This repository contains final projects, lab reports, and notes from my coursewo
 ### Level Effect Coursework
   - [GoodCorp vs. APT 41](./GoodCorp-APT41.pdf)
   - [Malicious Process Triage](./Malicious-Process-Triage)
-  - 
+  - [Network Traffic Triage - Qakbot](./Network-Traffic-Triage-Qakbot)
