@@ -5,7 +5,7 @@ This repository contains final projects, lab reports, and notes from my coursewo
 ## Contents
 
 ### Resume 
-[Aimé Fraser Resume}(./AimeFraser_Resume.pdf)
+[Aimé Fraser Resume](./AimeFraser_Resume.pdf)
 
 I 
 
