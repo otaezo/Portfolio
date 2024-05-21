@@ -4,9 +4,14 @@ This repository contains final projects, lab reports, and notes from my coursewo
 
 ## Contents
 
+### Resume 
+[Aimé Fraser Resume}(./AimeFraser_Resume.pdf)
+
+I 
+
 ### Level Effect Certified Cyber Defense Professional Certification Capstone Project
 - [Compromised Host Analysis](./Compromised-Host-Analysis.pdf)
-- [Email Analysis](./Email-Ananlysis.pdf)
+- [Email Analysis](./Email-Analysis.pdf)
 - [Log Analysis](./Log-Analysis.pdf)
 - [Pcap Analysis](./pcap-Analysis.pdf)
 - [Threat Intelligence Report](./Threat-Intel-Report.pdf)
